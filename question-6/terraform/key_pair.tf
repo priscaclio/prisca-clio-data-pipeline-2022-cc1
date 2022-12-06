@@ -1,4 +1,0 @@
-resource "aws_key_pair" "mykey" {
-  key_name   = "prisca-clio-key"
-  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDp1iJ685uh0wg6ZCJ3+1qWXhNScb/CjMdxXcZ8yWbnJTUmI90lfC3E7dsBN8Rb+CBASKVk29DX6O1U6v+lAUSiDOaGoB7S8pDdYnHRSWw+OdcCq72HV5Iy2pmqKlwOt8xuFDNxAHlPh/1txHGQF1LFCCjZf6cmCm7sxFYea51K6bV7aWA4qHQDkOSAN9DtoHMTTeUKP0tTJGx+QgUfXl8KTPXg2NBWr2xsQu7WrYv3W5EACpPYXQyZxhxDy/VQpqtNQ+kzeY01Qu7tqhbNdyer9m5LWIlwwHDiUH9n6sswtqjXHtWjXMYLRTLg7H/XGs7xhX8DCQYjJze3MSsf/86T Prisca@LAPTOP-9KJ7VP6F"
-}
